@@ -1,0 +1,70 @@
+
+F:\Website\witisoPC\11\A Few Tips for Novice Programmers.html
+F:\Website\witisoPC\11\ERP系统架构（BSCS开发模式）.html
+F:\Website\witisoPC\11\pcPrinciple.html
+F:\Website\witisoPC\11\电子计算机是怎么回事.html
+F:\Website\witisoPC\11\硬件和软件的逻辑等价性.html
+F:\Website\witisoPC\11\计算机语言是如何开发出来的.html
+F:\Website\witisoPC\11\A Few Tips for Novice Programmers.html
+F:\Website\witisoPC\11\ERP系统架构（BSCS开发模式）.html
+F:\Website\witisoPC\11\pcPrinciple.html
+F:\Website\witisoPC\11\电子计算机是怎么回事.html
+F:\Website\witisoPC\11\硬件和软件的逻辑等价性.html
+F:\Website\witisoPC\11\计算机语言是如何开发出来的.html
+F:\Website\witisoPC\11\000more\CPU指令集：一串二进制指令表示执行某个功能.html
+F:\Website\witisoPC\11\000more\CPU阿甘的一天.html
+F:\Website\witisoPC\11\000more\dirList.html
+F:\Website\witisoPC\11\000more\more.html
+F:\Website\witisoPC\11\000more\Win7中如何一键清空剪贴板.html
+F:\Website\witisoPC\11\000more\关于操作系统中文版和英文版的性能差异.html
+F:\Website\witisoPC\11\000more\冯·诺依曼：探寻计算的“原力”.html
+F:\Website\witisoPC\11\000more\历代计算机对比.html
+F:\Website\witisoPC\11\000more\定时开关机.html
+F:\Website\witisoPC\11\000more\当前计算机领域的整体概要结构.html
+F:\Website\witisoPC\11\000more\指令集.html
+F:\Website\witisoPC\11\000more\添加右键菜单管理员权限.html
+F:\Website\witisoPC\11\000more\电脑基本概念大全.html
+F:\Website\witisoPC\11\000more\论最简单组合.html
+F:\Website\witisoPC\11\000more\CPU指令集：一串二进制指令表示执行某个功能.html
+F:\Website\witisoPC\11\000more\CPU阿甘的一天.html
+F:\Website\witisoPC\11\000more\dirList.html
+F:\Website\witisoPC\11\000more\more.html
+F:\Website\witisoPC\11\000more\Win7中如何一键清空剪贴板.html
+F:\Website\witisoPC\11\000more\关于操作系统中文版和英文版的性能差异.html
+F:\Website\witisoPC\11\000more\冯·诺依曼：探寻计算的“原力”.html
+F:\Website\witisoPC\11\000more\历代计算机对比.html
+F:\Website\witisoPC\11\000more\定时开关机.html
+F:\Website\witisoPC\11\000more\当前计算机领域的整体概要结构.html
+F:\Website\witisoPC\11\000more\指令集.html
+F:\Website\witisoPC\11\000more\添加右键菜单管理员权限.html
+F:\Website\witisoPC\11\000more\电脑基本概念大全.html
+F:\Website\witisoPC\11\000more\论最简单组合.html
+F:\Website\witisoPC\11\000more\bat修改注册表\a.html
+F:\Website\witisoPC\11\000more\bat修改注册表\a.html
+F:\Website\witisoPC\11\000more\bat重命名\a.html
+F:\Website\witisoPC\11\000more\bat重命名\a.html
+F:\Website\witisoPC\11\000more\bios\a.html
+F:\Website\witisoPC\11\000more\bios\a.html
+F:\Website\witisoPC\11\000more\UEFI GPT引导\a.html
+F:\Website\witisoPC\11\000more\UEFI GPT引导\a.html
+F:\Website\witisoPC\11\000more\穿越计算机的迷雾snag\a.html
+F:\Website\witisoPC\11\000more\穿越计算机的迷雾snag\a.html
+F:\Website\witisoPC\11\000more\逻辑电路与全加器\a.html
+F:\Website\witisoPC\11\000more\逻辑电路与全加器\a.html
+F:\Website\witisoPC\11\从逻辑门到计算机\a.html
+F:\Website\witisoPC\11\从逻辑门到计算机\a.html
+F:\Website\witisoPC\11\信号计算记忆\a.html
+F:\Website\witisoPC\11\信号计算记忆\a.html
+F:\Website\witisoPC\11\穿越计算机迷雾\穿越计算机迷雾.html
+F:\Website\witisoPC\11\穿越计算机迷雾\穿越计算机迷雾.html
+F:\Website\witisoPC\11\vonNeumannStructure.doc
+F:\Website\witisoPC\11\三极管的检测方法与经验.doc
+F:\Website\witisoPC\11\开关电路和布尔代数.doc
+F:\Website\witisoPC\11\ERP发展阶段图.xlsx
+F:\Website\witisoPC\11\000more\structured computer organization cn en.docx
+F:\Website\witisoPC\11\000more\structured computer organization.docx
+F:\Website\witisoPC\11\000more\访问存储器(见主机协同cpu).docx
+F:\Website\witisoPC\11\000more\快捷键.xlsx
+F:\Website\witisoPC\11\000more\计算机发展简史及其关键技术年表.xlsx
+F:\Website\witisoPC\11\000more\bios\10.docx
+F:\Website\witisoPC\11\从逻辑门到计算机\b.docx
